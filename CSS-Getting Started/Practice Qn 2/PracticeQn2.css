@@ -1,0 +1,13 @@
+h1{
+    color: #ffffff;
+    background-color: black;
+}
+p{
+    color: rgb(255, 255, 0);
+    /* color: #ffff00;; */
+    background-color: crimson;
+}
+button{
+    /* color: rgb(0, 0, 255); */
+    color: #0000ff;
+}
