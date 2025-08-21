@@ -1,0 +1,8 @@
+p + h3{
+    text-decoration: cyan wavy underline;
+}
+.a + button
+{
+    color: darkslateblue;
+    background-color: lightpink;
+}
