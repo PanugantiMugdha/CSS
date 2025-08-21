@@ -1,0 +1,12 @@
+/* p a{
+    color: darkred;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} */
+.post a{
+    color: darkred;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+nav ul li a{
+    color: darkmagenta;
+    /* background-color: magenta; */
+}
