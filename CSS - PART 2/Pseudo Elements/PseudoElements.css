@@ -1,0 +1,9 @@
+h1::first-letter{
+    color: darkred;
+}
+p::first-line{
+    color: purple;
+}
+p::selection{
+    background-color: yellow;
+}
