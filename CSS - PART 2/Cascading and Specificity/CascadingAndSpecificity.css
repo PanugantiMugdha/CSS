@@ -1,0 +1,10 @@
+/* cascading */
+h3{
+    background-color: gray;
+}
+h3{
+    background-color: plum;
+}
+h3:hover{
+    background-color: aqua;
+}
