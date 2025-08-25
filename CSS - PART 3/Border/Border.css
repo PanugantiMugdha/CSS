@@ -1,0 +1,13 @@
+div{
+    height: 300px;
+    width: 500px;
+    background-color: lightcyan;
+    border-width: 5px;
+    border-style: solid;
+    border-color: cyan;
+}
+h1{
+    border-width: 5px;
+    border-style: dotted;
+    border-color: darkblue;
+}
