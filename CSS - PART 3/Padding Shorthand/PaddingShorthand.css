@@ -1,0 +1,29 @@
+div{
+    height: 500px;
+    width: 500px;
+    background-color: lightcyan;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: cyan; */
+    border: 5px solid purple;
+    /* border-left-style: dashed;
+    border-left-color: yellow; */
+    /* border-top: 5px dashed yellow; */
+    /* border-top-right-radius: 10px; */
+    border-radius: 15px;
+    /* padding-left:50px; */
+    /* full padding */
+    /* padding: 50px; */
+    /* padding top-down and left-right */
+    /* padding: 80px 50px; */
+    /* padding top,left/right,bottom */
+    /* padding: 50px 70px 90px; */
+    /* padding top,right,bottom,left */
+    padding: 10px 30px 50px 70px;
+}
+h1{
+    /* border-width: 5px;
+    border-style: dotted;
+    border-color: darkblue; */
+    border: 5px solid hotpink;
+}
