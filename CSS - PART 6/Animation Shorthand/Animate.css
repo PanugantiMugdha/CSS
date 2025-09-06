@@ -1,0 +1,35 @@
+.box{
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+    /* animation-name: widthChange;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-delay: 0;
+    animation-iteration-count: 3;
+    animation-direction: alternate; */
+    animation: widthChange 2s ease-in 0s 3 alternate ;
+
+}
+@keyframes widthChange {
+    from{
+        width: 10px;
+        font-size: 20px;
+        background-color: plum;
+    }
+    to{
+        width: 400px;
+        font-size: 40px;
+        background-color: darkmagenta;
+        border-radius: 50%;
+    }
+}
+/* @keyframes fontAnimation {
+    from{font-size: 20px;}
+    to{font-size: 40px;}
+}
+@keyframes backgroundColor {
+    from{background-color: plum;}
+    to{background-color: hotpink;}
+    
+} */
